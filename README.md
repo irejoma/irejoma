@@ -3,7 +3,10 @@
 ## **About Me**  
 
 👋 Hi, I’m **Renz John!**, a **Full-Stack Developer** based in the 📍 Philippines!
-Software developer with 1+ years of experience using **Laravel, PHP, JavaScript, HTML, CSS, Bootstrap, and Tailwind** for systems development. Demonstrated understanding of **OOP principles and MySQL database administration**. Additional experience in technical support, system testing, generating of reports through excel, pdf and notepad and hardware support provides a well-rounded foundation.
+
+### 🧠 Software developer with 1+ years of experience using **Laravel, PHP, JavaScript, HTML, CSS, Bootstrap, and Tailwind** for systems development. Demonstrated understanding of **OOP principles and MySQL database administration**. Additional experience in technical support, system testing, generating of reports through excel, pdf and notepad and hardware support provides a well-rounded foundation.
+
+
 
 ### 📌 My Location Highlights
 - 🌋 **Taal Volcano View** – Iconic and scenic spot ideal for photography and sightseeing.
