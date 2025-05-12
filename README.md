@@ -9,7 +9,7 @@
 <p align="left">✨ I am currently working as a PHP/Laravel Fullstack Software Developer<br>📚 I'm currently learning new technologies in terms of frontend development<br>🎲 Fun fact: did you know that rejoma is my full name?</p>
 
 ###
-
+# 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
