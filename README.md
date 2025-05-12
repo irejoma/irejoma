@@ -1,12 +1,16 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+## **About Me**  
 
-<p align="left">I am Renz, but you can call me Ethan!</p>
+👋 Hi, I’m **Renz John!**, a **Full-Stack Developer** based in the 📍 Philippines!
+Software developer with 1+ years of experience using **Laravel, PHP, JavaScript, HTML, CSS, Bootstrap, and Tailwind** for systems development. Demonstrated understanding of **OOP principles and MySQL database administration**. Additional experience in technical support, system testing, generating of reports through excel, pdf and notepad and hardware support provides a well-rounded foundation.
 
-###
-
-<p align="left">✨ I am currently working as a PHP/Laravel Fullstack Software Developer<br>📚 I'm currently learning new technologies in terms of frontend development<br>🎲 Fun fact: did you know that rejoma is my full name?</p>
+### 📌 My Location Highlights
+- 🌋 **Taal Volcano View** – Iconic and scenic spot ideal for photography and sightseeing.
+- 🌿 **Cool Climate** – Elevated location provides fresh mountain air year-round.
+- ☕ **Cafés & Restaurants** – Enjoy local cuisine and coffee with a view.
+- 🛶 **Taal Lake Activities** – Boat rides and volcano trekking (when allowed).
+- 🛍️ **Local Markets** – Try fresh fruits, especially pineapples, and native delicacies.
 
 ###
 # 💻 Tech Stack:
