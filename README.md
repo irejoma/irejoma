@@ -8,21 +8,21 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irejoma/irejoma/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irejoma/irejoma/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/irejoma/irejoma/output/github-snake.svg" />
-</picture>
-
-
-### 
-
 📌 My Location Highlights
 - 🌋 **Taal Volcano View** – Iconic and scenic spot ideal for photography and sightseeing.
 - 🌿 **Cool Climate** – Elevated location provides fresh mountain air year-round.
 - ☕ **Cafés & Restaurants** – Enjoy local cuisine and coffee with a view.
 - 🛶 **Taal Lake Activities** – Boat rides and volcano trekking (when allowed).
 - 🛍️ **Local Markets** – Try fresh fruits, especially pineapples, and native delicacies.
+
+
+### 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irejoma/irejoma/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irejoma/irejoma/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/irejoma/irejoma/output/github-snake.svg" />
+</picture>
 
 ###
 # 💻 Tech Stack:
