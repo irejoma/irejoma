@@ -6,9 +6,18 @@
 
 🧠 Software developer with 1+ years of experience using **Laravel, PHP, JavaScript, HTML, CSS, Bootstrap, and Tailwind** for systems development. Demonstrated understanding of **OOP principles and MySQL database administration**. Additional experience in technical support, system testing, generating of reports through excel, pdf and notepad and hardware support provides a well-rounded foundation.
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irejoma/irejoma/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irejoma/irejoma/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/irejoma/irejoma/output/github-snake.svg" />
+</picture>
 
 
-### 📌 My Location Highlights
+### 
+
+📌 My Location Highlights
 - 🌋 **Taal Volcano View** – Iconic and scenic spot ideal for photography and sightseeing.
 - 🌿 **Cool Climate** – Elevated location provides fresh mountain air year-round.
 - ☕ **Cafés & Restaurants** – Enjoy local cuisine and coffee with a view.
@@ -124,11 +133,7 @@
 ###
 
 <!-- <img src="https://raw.githubusercontent.com/irejoma/irejoma/output/snake.svg" alt="Snake animation" /> -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irejoma/irejoma/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irejoma/irejoma/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/irejoma/irejoma/output/github-snake.svg" />
-</picture>
+
 
 ###
 
